@@ -2,5 +2,23 @@
   "dependencies": {
     "axios": "^1.3.5",
     "express": "^4.18.2"
-  }
+  },
+  "name": "testnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coboooo/testnode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coboooo/testnode/issues"
+  },
+  "homepage": "https://github.com/coboooo/testnode#readme",
+  "description": ""
 }
